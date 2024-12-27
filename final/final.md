@@ -1,11 +1,11 @@
 # 期末作業
 ### 作業一 
   * [HW1](https://github.com/sam00002135/_ws1/blob/main/hm01.js)
-  參考上課範例
+  參考上課範例，自己改寫
 ---
 ### 作業二 
   * [HW2](https://github.com/sam00002135/_ws1/tree/main/hm02)
-  參考上課範例
+  參考上課範例，chatgpt協助debug
 ---
 ### 作業三 
   * [HW3](https://github.com/sam00002135/_ws1/tree/main/hm03)
