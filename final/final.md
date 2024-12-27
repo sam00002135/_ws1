@@ -15,7 +15,7 @@
   * [HW4](https://github.com/sam00002135/_ws1/tree/main/hm04)
   參考上課範例、chatgpt協助debug
 
-[筆記]: https://hackmd.io/lbn90_o5QouFB7goBsAgfw
+[筆記](https://hackmd.io/lbn90_o5QouFB7goBsAgfw)
   ---
 ### 期中Project 
   * [MID](https://github.com/sam00002135/_ws1/tree/main/_project)
